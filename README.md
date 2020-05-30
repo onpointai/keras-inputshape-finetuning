@@ -4,7 +4,7 @@ This is an example from [Pyimage](https://www.pyimagesearch.com/2019/06/24/chang
 
 Learned how to deal with images of different dimensions.
 
-I trained the model o Google Colab which offers free GPU training (https://research.google.com/colaboratory/faq.html)
+I trained the model on Google Colab which offers free GPU training (https://research.google.com/colaboratory/faq.html)
 
 My trained model was100 epochs was 60Mb - too big for Github
 
